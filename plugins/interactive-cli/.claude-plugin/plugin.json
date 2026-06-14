@@ -1,0 +1,7 @@
+{
+  "name": "interactive-cli",
+  "description": "Drive interactive command-line programs (prompts, REPLs, arrow-key menus, confirmations) via a tmux helper, instead of asking the user to type. Lets Claude read prompts and send answers itself.",
+  "version": "1.0.0",
+  "author": { "name": "kevkotuto" },
+  "keywords": ["tmux", "interactive", "cli", "automation", "prompts", "repl"]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "interactive-cli-marketplace",
+  "owner": { "name": "kevkotuto" },
+  "metadata": {
+    "description": "Tools that let Claude Code drive interactive terminal programs on its own."
+  },
+  "plugins": [
+    {
+      "name": "interactive-cli",
+      "source": "./plugins/interactive-cli",
+      "description": "Drive interactive CLI programs (prompts, REPLs, menus, confirmations) via tmux, so Claude can read prompts and answer them itself."
+    }
+  ]
+}
